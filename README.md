@@ -2,12 +2,13 @@
 
 This repository contains my daily Python learning practice.
 
-##  Day 1
-- Learned while loop
-- Practiced basic programs using while loop
+## Programs Added
+- Even Odd Checker
+- Number Guessing Game
+- Dictionary Practice
+- Functions Practice
+- Sorting Program
 
-##  Topics Covered
-- While Loop
 
 ##  Goal
 To improve my Python skills by practicing daily and uploading progress on GitHub.
