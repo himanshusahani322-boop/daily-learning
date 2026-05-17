@@ -11,7 +11,12 @@ This repository contains my daily Python learning practice.
 
 
 ##  Goal
-To improve my Python skills by practicing daily and uploading progress on GitHub.
+To improve my Python fundamentals skills by practicing daily and uploading progress on GitHub.
+
+## Upcoming
+- OOP
+- File Handling
+- DSA
 
 ---
 Learner: Himanshu Sahani
