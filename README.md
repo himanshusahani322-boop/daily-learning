@@ -16,7 +16,7 @@ To improve my Python fundamentals skills by practicing daily and uploading progr
 ## Upcoming
 - OOP
 - File Handling
-- DSA
+- Pandas
 
 ---
 Learner: Himanshu Sahani
